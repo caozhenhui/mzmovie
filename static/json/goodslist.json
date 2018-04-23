@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "model":"狂暴巨兽",
+        "price":"320",
+        "imgUrl":"/static/image/kbjs.jpg"
+    },
+    {
+        "id":2,
+        "model":"唐人街神探",
+        "price":"55",
+        "imgUrl":"/static/image/trj.jpg"
+    },
+    {
+        "id":3,
+        "model":"古墓丽影",
+        "price":"68",
+        "imgUrl":"/static/image/gmly.jpg"
+    },
+    {
+        "id":4,
+        "model":"爸爸去哪了",
+        "price": "23",
+        "imgUrl":"/static/image/bbqnl.jpg"
+    },
+    {
+        "id":5,
+        "model":"极限挑战",
+        "price": "137",
+        "imgUrl":"/static/image/jxtz.jpg"
+    }
+]

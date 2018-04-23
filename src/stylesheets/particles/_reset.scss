@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html{
+	font-size: 100px;
+}
+body{
+	font-size: 14px;
+	font-family: "微软雅黑";
+	color: #333;
+	background: #ebebeb;
+}
+
+a{
+	text-decoration: none;
+	color: #999;
+}
+a:hover{
+	text-decoration: underline;
+}
+ul,ol{
+	list-style: none;
+}
+img{
+	border: none;
+}
+.clearfixed:after{
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+a,input{
+	outline: none;
+}
+textarea{
+	resize: none;
+}
